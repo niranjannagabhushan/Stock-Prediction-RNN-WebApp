@@ -1,5 +1,6 @@
 ## Stock Prediction using Simple RNN WebApp
 
+
 - A simple projects to understand the price vs time relation found in the Stock Data available through Yahoo Finance
 
 -To capture the complex pattern in our data i have used a simple RNN LSTM network
